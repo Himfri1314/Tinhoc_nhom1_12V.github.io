@@ -3,6 +3,7 @@
     <meta charset = "UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
+  <body>
 <header>
      <div style="background-color: #9FADEA; padding: 10px;">
         <a href="trangchu" style="text-decorating: none; color: white; padding: 0 10px;">Trang chủ</a>
@@ -28,7 +29,7 @@
 .banner {
     width: 100%;
     height: 230px;
-    background-image: url('cute.jpg');
+    background-image: url('cute1.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
