@@ -36,17 +36,6 @@
 .card:hover {
     transform: translateY(-5px);
 }
-
-/* Ảnh đại diện */
-.avatar {
-    width: 140px;
-    height: 140px;
-    border-radius: 50%;
-    border: 5px solid #9ac5ff;
-    object-fit: cover;
-    margin-bottom: 15px;
-}
-
 .card h3 {
     margin-top: 10px;
     font-size: 22px;
