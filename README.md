@@ -21,21 +21,10 @@
             background-repeat: no-repeat;  /* Không lặp lại */
       }
     </style>
-       <div class="box">
-  BÁO CÁO TIN HỌC
-</div>
-<style>
-  .box {
-    width: 300px;           /* kích thước khung */
-    height: 150px;
-    background: #f0f0f0;
-    display: flex;
-    justify-content: center; /* giữa ngang */
-    align-items: center;     /* giữa dọc */
-    font-size: 24px;         /* chỉnh cỡ chữ */
-    border-radius: 10px;
-  }
-</style>
+<div id="banner">
+      <div class="box-left">
+       <h1 style="text-align:center;">BÁO CÁO TIN HỌC</h1>
+    </div>
   </header>
   <style>
         /* Tiêu đề */
