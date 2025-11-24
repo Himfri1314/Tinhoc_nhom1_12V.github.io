@@ -45,7 +45,7 @@
 </style>
 <body>
     <div class="background"></div>
-    <h2 class="title">NHÓM 1 (12 VĂN)></h2>
+    <h2 class="title">NHÓM 1 (12 VĂN)</h2>
     <div class="container">
         <div class="card">
             <img src="Phương Duyên.png" class="avatar">
