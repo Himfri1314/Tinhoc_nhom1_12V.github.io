@@ -15,7 +15,7 @@
       </div>
     <style>
       body {
-        background-image: url('cute.jpg');
+        background-image: url('cute1.jpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
