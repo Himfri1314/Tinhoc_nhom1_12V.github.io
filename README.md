@@ -14,13 +14,7 @@
         <a href="lienhe" style="text-decorating: none; color: white; padding: 0 10px;">Liên hệ</a>
       </div>
     <style>
-     .khung-nen {
-    width: 500px;
-    height: 300px;
-    background: url('cute.jpg') no-repeat;
-    background-size: contain; /* hiển thị hết ảnh nhưng không tràn */
-    background-position: center;
-}
+     <img src="cute1.jpg" alt="anhnen" style="width:300px;">
     </style>
     <div id="banner">
       <div class="box-left">
