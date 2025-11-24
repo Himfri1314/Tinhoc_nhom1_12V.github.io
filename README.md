@@ -14,7 +14,8 @@
         <a href="lienhe" style="text-decorating: none; color: white; padding: 0 10px;">Liên hệ</a>
       </div>
     <style>
-     <img src="cute1.jpg" alt="anhnen" style="width:300px;">
+      <div class="khung-nen"></div>
+     <img src="cute1.jpg" alt="anhnen">
     </style>
     <div id="banner">
       <div class="box-left">
