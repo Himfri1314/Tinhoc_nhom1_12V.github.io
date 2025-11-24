@@ -15,9 +15,9 @@
       </div>
     <style>
      .khung-nen {
-    width: 300px;
-    height: 100px;
-    background: url('cute1.jpg') no-repeat;
+    width: 500px;
+    height: 300px;
+    background: url('cute.jpg') no-repeat;
     background-size: contain; /* hiển thị hết ảnh nhưng không tràn */
     background-position: center;
 }
