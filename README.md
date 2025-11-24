@@ -13,14 +13,28 @@
         <a href="tailieu" style="text-decorating: none; color: white; padding: 0 10px;">Tài liệu</a>
         <a href="lienhe" style="text-decorating: none; color: white; padding: 0 10px;">Liên hệ</a>
       </div>
-     <style>
-      body {
-        background-image: url('cute1.jpg');
-            background-size: cover;        /* Phủ toàn màn hình */
-            background-position: center;   /* Canh giữa ảnh */
-            background-repeat: no-repeat;  /* Không lặp lại */
-      }
-    </style>
+     <div class="khung-nen"></div>
+     <img src="cute1.jpg" alt="anhnen">
+    <style>
+.image-box {
+    position: relative;      /* cho phép đặt chữ lên trên ảnh */
+    width: 300px;            /* bạn đổi tùy ý */
+}
+.img {
+    width: 100%;
+    border-radius: 20px;     /* nếu bạn muốn bo góc */
+}
+.text {
+    position: absolute;      /* đè lên ảnh */
+    bottom: 20px;            /* khoảng cách từ dưới lên */
+    left: 50%;               /* căn ngang giữa */
+    transform: translateX(-50%);
+    color: white;            /* màu chữ */
+    font-size: 22px;
+    font-weight: 700;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.7); /* giúp chữ nổi bật */
+}
+      </style>
     <div id="banner">
       <div class="box-left">
        <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 30px;">BÁO CÁO TIN HỌC</h1>
