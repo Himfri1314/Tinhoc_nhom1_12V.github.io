@@ -29,8 +29,7 @@
     </div>
   </header>
   <div id="wp-products">
-    <h1>THÀNH VIÊN</h1>
-    <h2>NHÓM 1 (12 VĂN)</h2>
+    <h1 style="text-align:center;text-decorating: none; color: black blue; padding: 0 30px;">THÀNH VIÊN</h1>
   </div>
   <style>
         /* Tiêu đề */
