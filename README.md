@@ -87,7 +87,7 @@
     <div class="container">
         <div class="card">
             <img src="Phương Duyên.png" class="avatar">
-            <a href="phuongduyen" style="text-decorating: none; color: dark blue; padding: 0 10px;">Nguyễn Ngọc Phương Duyên</a>
+            <a href="phuongduyen.html" style="text-decorating: none; color: dark blue; padding: 0 10px;">Nguyễn Ngọc Phương Duyên</a>
         </div>
         <div class="card">
             <img src="Minh Châu.png" class="avatar">
