@@ -205,14 +205,10 @@
       header .title{font-size:24px; letter-spacing:2px}
     }
   </style>
-</head>
 <body>
   <div class="page-wrap">
     <main class="main">
       <section class="panel">
-        <header class="page-header">
-          <div class="title">VẬN DỤNG</div>
-        </header>
         <nav class="list" aria-label="Danh sách bài">
           <!-- Lặp các item giống screenshot -->
           <a class="item" href="#"><span class="marker"></span><span class="label">Bài 7: HTML VÀ CẤU TRÚC TRANG WEB</span></a>
